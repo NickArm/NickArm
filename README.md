@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Fullstack Developer from Greece<br><br>    🌱 I’m currently learning Vue.js<br><br>    📝 I regularly write articles on https://armenisnick.gr/blog/<br><br>    📫 How to reach me armenisnick@gmail.com<br><br>    📄 Know about my experiences https://www.linkedin.com/in/armenisnick/<br>
+A passionate Fullstack Developer from Greece<br><br>    🌱 I’m currently learning Ruby on Rails<br><br>    📝 I regularly write articles on https://armenisnick.gr/blog/<br><br>    📫 How to reach me armenisnick@gmail.com<br><br>    📄 Know about my experiences https://www.linkedin.com/in/armenisnick/<br>
 
 
 ## 🌐 Socials:
